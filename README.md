@@ -1,5 +1,6 @@
 # GithubPractice
 Q1 - What does clone set the variable origin to represent?
+It sets the variable origin to represent main.
 
 Q2 - What does the command git push --set-upstream origin master do? What does remote tracking mean in this context?
 
