@@ -17,6 +17,8 @@ Q7 - Run git branch. Did your local copy of your branch delete when Person A del
 Q8 - Use git log --graph --all to view the branching structure and copy and paste the result into the README.md formatted as a code segment (see markdown cheatsheet).
 
 
+Results of git log --graph --all (some of it, it was very very long)
+
 ```
 *   commit 12c82b1c1c7b6d90d709a8b373264dad48556594 (HEAD -> main, origin/main, origin/HEAD)
 |\  Merge: 3112386 a873203
