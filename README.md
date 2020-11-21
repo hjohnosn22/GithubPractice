@@ -9,10 +9,10 @@ Q3 - Explain and illustrate what's happening in the commit tree when this comman
 This command pulls all of the edits from person A's commit to the master branch onto person B's computer. That way they have person A's code while working on the new branch. If person B pushes, their push will not contain person A's edits.
 
 Q4 - Are your commits overwritten by the remote master?
-
+No.
 
 Q5 - Is this a merge or a rebase?
-
+Rebase.
 
 Q6 - Person B: checkout the local master branch. Is it updated as well, or still behind remote master?
 It is behind.
